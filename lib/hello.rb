@@ -1,5 +1,5 @@
 def hello_t(array)
-@array = array
+@array = array 
 
 end
 
