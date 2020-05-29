@@ -1,5 +1,5 @@
 def hello_t(array)
-@array = array 
+@array = array
 i = 0
  while i < @array.length
    i = i + 1
